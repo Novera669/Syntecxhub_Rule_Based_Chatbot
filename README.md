@@ -49,12 +49,15 @@ python chatbot.py
 ##  Example Usage
 
 You: hi
+
 Bot: Hello! 😊
 
 You: what is python
+
 Bot: Python is a powerful programming language used in AI, web development, and automation.
 
 You: 5 + 3
+
 Bot: The answer is 8
 
 
