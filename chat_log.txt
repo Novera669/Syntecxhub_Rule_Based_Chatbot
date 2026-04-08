@@ -1,0 +1,18 @@
+2026-04-08 11:57:43.224378 | You: hi | Bot: Hey! How can I help you?
+2026-04-08 11:57:53.777817 | You: what is ai? | Bot: Artificial Intelligence enables machines to think and learn like humans.
+2026-04-08 11:58:06.609761 | You: who is trump? | Bot: Can you rephrase?
+2026-04-08 11:58:14.136430 | You: donald trump | Bot: I�m not sure about that.
+2026-04-08 11:58:44.193678 | You: machine | Bot: Hey! How can I help you?
+2026-04-08 11:58:51.292463 | You: machine learning | Bot: Hey! How can I help you?
+2026-04-08 11:59:00.185185 | You: what is machine learning | Bot: Hey! How can I help you?
+2026-04-08 11:59:04.914357 | You: ai | Bot: Artificial Intelligence enables machines to think and learn like humans.
+2026-04-08 11:59:12.390675 | You: help | Bot: I can answer questions about AI, Python, internships, and more.
+2026-04-08 11:59:20.892598 | You: okay | Bot: I don't understand that yet.
+2026-04-08 11:59:24.367407 | You: bye | Bot: Goodbye!
+2026-04-08 12:28:14.430304 | You: hi | Bot: Hey! What can I do for you?
+2026-04-08 12:28:22.586645 | You: 2+2 | Bot: The answer is 4
+2026-04-08 12:28:33.022264 | You: multiply 6 with 4 | Bot: The answer is 6
+2026-04-08 12:28:37.724075 | You: why | Bot: I don’t understand that yet.
+2026-04-08 12:28:48.729807 | You: what is data | Bot: I don’t understand that yet.
+2026-04-08 12:28:52.589819 | You: data science | Bot: Data science involves extracting insights from data using statistics and machine learning.
+2026-04-08 12:28:56.278620 | You: exit | Bot: Goodbye! 👋
